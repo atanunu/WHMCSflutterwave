@@ -1,6 +1,6 @@
 <?php
 /**
- * Flutterwave WHMCS Payment Gateway Module - Callback v2.0
+ * Flutterwave WHMCS Payment Gateway Module - Callback v1.0
  *
  * This Payment Gateway module allows you to integrate Flutterwave payment solutions with the WHMCS platform.
  * For more information, see: https://developer.flutterwave.com/docs
